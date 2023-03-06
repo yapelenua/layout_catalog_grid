@@ -5,6 +5,7 @@
   gap: 48px;
   justify-content: center;
   grid-template-columns: $card-width;
+  margin: 0 auto;
 
   &__card {
     display: flex;
